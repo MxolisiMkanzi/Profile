@@ -2,28 +2,30 @@
 
 ### Education
 ```
-- Bsc Information and Knowlegde Systems at the University Of Pretoria(2018-present).
+Field of study: Bsc Information and Knowlegde Systems
+Institition: University Of Pretoria
+Year of study: 3rd
 ```
 
 ### Skills
 ```
-- Leadership
-- Time management
-- Responsible
-- Team work
-- Problem solving
+Leadership
+Time management
+Responsible
+Team work
+Problem solving
 ```
 
 ### Technical skills
 ```
-- C++
-- C#
-- Java
-- JavaScript
-- HTML
-- CSS
-- ASP.net
-- PHP
+C++
+C#
+Java
+JavaScript
+HTML
+CSS
+ASP.net
+PHP
 ```
 
 ### Work Experience
@@ -33,20 +35,20 @@
 
 ### Interests
 ```
-- Reading
-- Coding
-- Board games
-- Tutoring/Teaching
+Reading
+Coding
+Board games
+Tutoring/Teaching
 ```
 
 ### Software Engineering mini project contributions:
 ```
-- Reset module and controller
-- Recover module and controller
+Reset module and controller
+Recover module and controller
 ```
 
 ### Contact informtion:
 ```
-- **Email:** mxolisicmkanzi@gmail.com
-- **Linkedin:** linkedin.com/in/mxolisi-mkanzi-1a40bb168
+Email: mxolisicmkanzi@gmail.com
+Linkedin: linkedin.com/in/mxolisi-mkanzi-1a40bb168
 ```
