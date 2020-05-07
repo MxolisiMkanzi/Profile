@@ -30,7 +30,7 @@ PHP
 
 ### Work Experience
 ```
-- Teaching assistant at the University of Pretoria(2019-present)
+Teaching assistant at the University of Pretoria(2019-present)
 ```
 
 ### Interests
