@@ -16,8 +16,17 @@
 
 ### Technical skills
 
- **Languages and Frameworks**
-- C++, C#, Java, JavaScript, HTML, CSS, ASP.net, PHP, Bootstrap
+- C++
+- C#
+- Java
+- JavaScript
+- HTML
+- CSS
+- ASP.net
+- PHP
+
+### Work Experience
+- Teaching assistant at the University of Pretoria(2019-present)
 
 ### Interests
 
