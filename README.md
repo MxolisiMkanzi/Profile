@@ -2,9 +2,9 @@
 
 ### Education
 
-- Field of Study: Bsc Information and Knowlegde Systems
-- Institution: University Of Pretoria
-- Year of study: 3rd year
+**Field of Study:** Bsc Information and Knowlegde Systems
+**Institution:** University Of Pretoria
+**Year of study:** 3rd year
 
 ### Skills
 
