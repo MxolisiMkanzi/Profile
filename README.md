@@ -41,13 +41,13 @@ Board games
 Tutoring/Teaching
 ```
 
-### Software Engineering mini project contributions:
+### Software Engineering mini project contributions
 ```
 Reset module and controller
 Recover module and controller
 ```
 
-### Contact information:
+### Contact information
 ```
 Email: mxolisicmkanzi@gmail.com
 Linkedin: linkedin.com/in/mxolisi-mkanzi-1a40bb168
