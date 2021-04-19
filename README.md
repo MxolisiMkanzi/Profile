@@ -35,7 +35,7 @@ Teaching assistant at the University of Pretoria(2019-present)
 
 ### Interests
 ```
-Reading
+Music
 Coding
 Board games
 Tutoring/Teaching
