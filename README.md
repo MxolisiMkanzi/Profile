@@ -4,7 +4,7 @@
 ```
 Field of study: Bsc Information and Knowlegde Systems
 Institition: University Of Pretoria
-Year of study: 3rd
+Year of study: Final
 ```
 
 ### Skills
